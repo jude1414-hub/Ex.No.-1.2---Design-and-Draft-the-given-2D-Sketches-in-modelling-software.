@@ -33,7 +33,8 @@
  
  
  ## SKETCH
- ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
+ [EX 1.2 Drawing v1.pdf](https://github.com/user-attachments/files/17537978/EX.1.2.Drawing.v1.pdf)
+
 
  ## OUTPUT
  ![image](https://github.com/user-attachments/assets/8fed24dc-509c-49af-914c-11909ea9485c)
