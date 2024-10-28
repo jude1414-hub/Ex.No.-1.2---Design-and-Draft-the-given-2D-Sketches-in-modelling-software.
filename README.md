@@ -33,7 +33,7 @@
  
  
  ## SKETCH
- [EX 1.2 Drawing v1.pdf](https://github.com/user-attachments/files/17537978/EX.1.2.Drawing.v1.pdf)
+ [EX 1.2 Drawing v1.pdf](https://github.com/user-attachments/files/17538022/EX.1.2.Drawing.v1.pdf)
 
 
  ## OUTPUT
